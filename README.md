@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou o Hugo!</h1>
-<h3 align="center">Estudante de Desenvolvimento Web</h3>
+<h3 align="center">Desenvolvedor Web Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgo19&label=Profile%20views&color=0e75b6&style=flat" alt="hgo19" /> </p>
 
-- 🌱 Eu estou atualmente estudando para ser um **Desenvolvedor Full Stack** na @Trybe.
+- 🌱 Eu estou atualmente estudando **Desenvolvimento Back-End** na @Trybe.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [https://hgo19.github.io/](https://hgo19.github.io/)
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
 
-- 💬 Me pergunte sobre: **javascript, testes e react.**
+- 💬 Vamos conversar sobre: **JavaScript, NodeJS e ReactJS.**
 
 - 📫 Como me contactar: **huleonardo19@gmail.com**
 
