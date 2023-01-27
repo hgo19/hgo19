@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgo19&label=Profile%20views&color=0e75b6&style=flat" alt="hgo19" /> </p>
 
-- 🌱 Eu estou atualmente estudando **Desenvolvimento Back-End** na @Trybe.
+- 🌱 Eu estou atualmente estudando **C#** na @Trybe.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
 
-- 💬 Vamos conversar sobre: **JavaScript, NodeJS e ReactJS.**
+- 💬 Vamos conversar sobre: **JavaScript, Typescript, NodeJS e ReactJS.**
 
 - 📫 Como me contactar: **huleonardo19@gmail.com**
 
