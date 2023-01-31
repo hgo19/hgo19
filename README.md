@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Hugo!</h1>
-<h3 align="center">Desenvolvedor Web Full Stack</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgo19&label=Profile%20views&color=0e75b6&style=flat" alt="hgo19" /> </p>
 
-- 🌱 Eu estou atualmente estudando **C#** na @Trybe.
+- 🌱 Eu estou atualmente estudando **C#**.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
 
