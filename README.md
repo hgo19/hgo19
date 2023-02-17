@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
 
-- 💬 Vamos conversar sobre: **JavaScript, Typescript, NodeJS e ReactJS.**
+- 💬 Vamos conversar sobre: **Typescript, C# e Basquete.**
 
 - 📫 Como me contactar: **huleonardo19@gmail.com**
 
