@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Hugo!</h1>
-<h3 align="center">Desenvolvedor Backend</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgo19&label=Profile%20views&color=0e75b6&style=flat" alt="hgo19" /> </p>
 
