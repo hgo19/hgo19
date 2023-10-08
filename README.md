@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgo19&label=Profile%20views&color=0e75b6&style=flat" alt="hgo19" /> </p>
 
-- 🌱 Eu estou atualmente estudando **C#**.
+- 🌱 Eu estou atualmente trabalhando com desenvolvimento full stack.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
 
