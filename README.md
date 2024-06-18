@@ -5,9 +5,7 @@
 
 - 🌱 Eu estou atualmente trabalhando com desenvolvimento full stack.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu portifólio: [aqui](https://hgo19.github.io/)
-
-- 💬 Vamos conversar sobre: **Typescript, C# e Basquete.**
+- 💬 Vamos conversar sobre: **Typescript, Golang e Basquete.**
 
 - 📫 Como me contactar: **huleonardo19@gmail.com**
 
